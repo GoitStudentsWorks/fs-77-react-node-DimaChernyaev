@@ -1,4 +1,4 @@
-import{r as o,n as i,j as n}from"./index-628beb06.js";function m(){const[t,a]=o.useState();return o.useEffect(()=>{function e(){window.innerWidth<1438?a(4):a(9)}return window.addEventListener("resize",e),e(),()=>{window.removeEventListener("resize",e)}},[]),t}const r="/fs-77-react-node-DimaChernyaev/assets/asr_blue_iced_tea_1-e64cabfc.png",p=i.div`
+import{r as o,n as i,j as n}from"./index-6a414c0e.js";function m(){const[t,a]=o.useState();return o.useEffect(()=>{function e(){window.innerWidth<1438?a(4):a(9)}return window.addEventListener("resize",e),e(),()=>{window.removeEventListener("resize",e)}},[]),t}const r="/fs-77-react-node-DimaChernyaev/assets/asr_blue_iced_tea_1-e64cabfc.png",p=i.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
